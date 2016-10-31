@@ -1,0 +1,40 @@
+{
+"frames": {
+	"bubble1.png": {
+		"frame": {"x":0, "y":0, "w":456, "h":418},
+		"spriteSourceSize": {"x":0,"y":0,"w":456,"h":418},
+		"sourceSize": {"w":456,"h":418}
+	},
+	"bubble2.png": {
+		"frame": {"x":0, "y":419, "w":446, "h":421},
+		"spriteSourceSize": {"x":0,"y":0,"w":446,"h":421},
+		"sourceSize": {"w":446,"h":421}
+	},
+	"bubble3.png": {
+		"frame": {"x":457, "y":0, "w":415, "h":465},
+		"spriteSourceSize": {"x":0,"y":0,"w":415,"h":465},
+		"sourceSize": {"w":415,"h":465}
+	},
+	"bubble4.png": {
+		"frame": {"x":873, "y":0, "w":414, "h":468},
+		"spriteSourceSize": {"x":0,"y":0,"w":414,"h":468},
+		"sourceSize": {"w":414,"h":468}
+	},
+	"bubble5.png": {
+		"frame": {"x":0, "y":841, "w":445, "h":423},
+		"spriteSourceSize": {"x":0,"y":0,"w":445,"h":423},
+		"sourceSize": {"w":445,"h":423}
+	},
+	"bubble6.png": {
+		"frame": {"x":446, "y":841, "w":427, "h":438},
+		"spriteSourceSize": {"x":0,"y":0,"w":427,"h":438},
+		"sourceSize": {"w":427,"h":438}
+	}
+
+},
+"meta": {
+	"image": "sprites.png",
+	"size": {"w": 1288, "h": 1280},
+	"scale": "1"
+}
+}
